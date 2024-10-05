@@ -3,14 +3,14 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/zh/",
 
   locales: {
-    "/": {
-      lang: "en-US",
-      title: "Sier",
-      description: "Learning to be a recorder of life and study",
-    },
+    // "/": {
+    //   lang: "en-US",
+    //   title: "Sier",
+    //   description: "Learning to be a recorder of life and study",
+    // },
     "/zh/": {
       lang: "zh-CN",
       title: "肆肆",
