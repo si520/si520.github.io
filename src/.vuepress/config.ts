@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
     lang: "zh-CN",
-    title: "肆肆",
+    title: "Sier",
     description: "正在学会做生活的记录者",
 
   theme,

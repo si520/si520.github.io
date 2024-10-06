@@ -4,7 +4,7 @@ import sidebar from "./sidebar/zh.js";
 
 
 export default hopeTheme({
-  hostname: "https://ryanlee-ljx.github.io/",
+  hostname: "https://si520.github.io/",
 
   author: {
     name: "Sier",
@@ -20,6 +20,7 @@ export default hopeTheme({
   blog: {
     medias: {
       GitHub: "https://github.com/si520",
+      Email:"qiangz_csu@163.com",
     },
   },
 
@@ -42,7 +43,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A Little Boy",
+        description: "I want to be a diligent, hard, fervent and enjoy life person.",
         intro: "/intro.html",
       },
 
